@@ -7,9 +7,7 @@ import java.util.Scanner;
  * Fazer um programa para ler uma temperatura em Celsius e mostrar o equivalente
  * em Fahrenheit. Perguntar se o usuário deseja repetir (s/n). Caso o usuário
  * digite "s", repetir o programa.
- * Fórmula: F = 9C + 32
- * 				--
- * 				5
+ * Fórmula: F = ((9 * C) / 5) + 32
  * Exemplo:
  * Digite a temperatura em Celsius: 30.0
  * Equivalente em Fahrenheit: 86.0
