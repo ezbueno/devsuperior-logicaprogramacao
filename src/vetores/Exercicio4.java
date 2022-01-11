@@ -18,7 +18,7 @@ import java.util.Scanner;
  * Carlos 21 1.65
  * Paulo 17 1.78
  * Saída:
- * Altura média: 1.67
+ * Altura média: 1.69
  * Pessoas com menos de 16 anos: 40.0%
  * 
  */
