@@ -15,10 +15,10 @@ public class Exercicio1 {
 		
 		try (Scanner sc = new Scanner(System.in)) {
 			int n = sc.nextInt();
+			int posicao = 0;
 			
 			double[] numeros = new double[n];
 			double maiorNumero = 0.0;
-			int posicao = 0;
 			
 			for (int i = 0; i < n; i++) {
 				numeros[i] = sc.nextDouble();

@@ -12,7 +12,6 @@ public class Exercicio3 {
 	public static void main(String[] args) {
 		try (Scanner sc = new Scanner(System.in)) {
 			int n = sc.nextInt();
-			
 			int[] vetorA = new int[n];
 			int[] vetorB = new int[n];
 			int[] vetorC = new int[n];

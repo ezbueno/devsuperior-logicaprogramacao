@@ -14,6 +14,7 @@ public class Exercicio6 {
 			int n = sc.nextInt();
 			int[] idades = new int[n];
 			int maiorIdade = 0;
+			
 			String[] nomes = new String[n];
 			String nome = "";
 			

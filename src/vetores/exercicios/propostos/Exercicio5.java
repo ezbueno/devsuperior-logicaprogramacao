@@ -18,6 +18,7 @@ public class Exercicio5 {
 			int[] vet = new int[n];
 			int soma = 0;
 			int contador = 0;
+			
 			double media;
 			
 			for (int i = 0; i < vet.length; i++) {
