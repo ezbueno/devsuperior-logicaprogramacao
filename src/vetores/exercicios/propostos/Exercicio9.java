@@ -10,7 +10,7 @@ import java.util.Scanner;
  * programa que leia tais dados e determine e escreva quantas mercadorias proporcionaram:
  * - lucro < 10%
  * - 10% ≤ lucro ≤ 20%
- * lucro > 20%
+ * - lucro > 20%
  * Determine e escreva também o valor total de compra e de venda de todas as mercadorias, assim como o lucro total.
  */
 public class Exercicio9 {
